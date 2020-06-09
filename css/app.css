@@ -92,3 +92,9 @@ button {
 #give-up:hover {
     background-color: #c7c7c7;
 }
+
+@media only screen and (max-width: 31.25em) {
+    .heading {
+        font-size: 1em;
+    }
+}
